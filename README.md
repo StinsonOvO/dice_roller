@@ -1,2 +1,2 @@
-# dicer_roller
-Dice roller
+# Dice Roller
+An Android App that simulates rolling a dice.
